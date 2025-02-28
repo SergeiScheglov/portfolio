@@ -11,3 +11,10 @@ Internet Marketing Educacional Project.
 
 Coibntains Business idea description, Personas description, Web site idea and prototypes, Web adds campain settings and screenshots, Email marketing campain plan, Omni channel strategy description.
 - [Marketing brief](https://github.com/SergeiScheglov/portfolio/blob/main/Cookie%20manufacturing_Marketing_Project.pdf)
+
+
+## Web Services
+### Travel Search Web Services
+A Tour Operator's API manual. Describes how to search, book, modify and cancel booking of packages, hotels, flights and travel services.
+- [Developer manual]
+
