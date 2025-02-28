@@ -16,5 +16,5 @@ Coibntains Business idea description, Personas description, Web site idea and pr
 ## Web Services
 ### Travel Search Web Services
 A Tour Operator's API manual. Describes how to search, book, modify and cancel booking of packages, hotels, flights and travel services.
-- [Developer manual]
+- [Developer manual](https://github.com/SergeiScheglov/portfolio/blob/main/travel-search-web-services.pdf)
 
