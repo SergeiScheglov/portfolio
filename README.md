@@ -6,5 +6,8 @@ Real e-commerce project: how to improve the website, and future business develop
 Includes Competitors analysis and comparizon, Primary persona description, list of Improvemets, Metrics.
 - [Marketing brief](https://github.com/SergeiScheglov/portfolio/blob/main/whitecat_e-commerce_project.pdf)
 
-### Cookies E-commerce project
-- [Cookie manufacturing: Internet Marketing Educacional Project](https://github.com/SergeiScheglov/portfolio/blob/main/Cookie%20manufacturing_Marketing_Project.pdf)
+### Cookie manufacturing E-commerce project
+Internet Marketing Educacional Project.
+
+Coibntains Business idea description, Personas description, Web site idea and prototypes, Web adds campain settings and screenshots, Email marketing campain plan, Omni channel strategy description.
+- [Marketing brief](https://github.com/SergeiScheglov/portfolio/blob/main/Cookie%20manufacturing_Marketing_Project.pdf)
