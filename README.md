@@ -1,5 +1,5 @@
 # My portfolio
-## My projects
+## Projects
 
 ### What I Would Do If I Became a Product Manager of Windows Phone in Q1 2014
 
