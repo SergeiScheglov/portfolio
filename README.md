@@ -24,3 +24,8 @@ Coibntains Business idea description, Personas description, Web site idea and pr
 A Tour Operator's API manual. Describes how to search, book, modify and cancel booking of packages, hotels, flights and travel services.
 - [Developer manual](https://github.com/SergeiScheglov/portfolio/blob/main/travel-search-web-services.pdf)
 
+
+##Business Processes
+### An example of Tour Operator's Product Management business processes description
+An example of PM business processes described in UML: Actors, Use Cases, Metrics. 
+- [Developer manual](https://github.com/SergeiScheglov/portfolio/blob/main/Tour_Operators_Product_Management_Business_Processes.pdf)
