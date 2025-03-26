@@ -35,6 +35,13 @@ Coibntains Business idea description, Personas description, Web site idea and pr
 A study what I would do first if I became a Product Manager. I was a Windows Phone user and still regret that the project was shut down, so one day I decided to do this research.
 - [Presentation](https://github.com/SergeiScheglov/portfolio/blob/main/what_i_would_do_if_i_became_a_pm_of_wp.pdf)
 
+### Air Conditioning Installation Company CJM
+
+Customer Journey Map for a website and CRM project made for a newly established company specialized in air condition system sales and installation. This company worked as a subcontractor with a number construction companies but decided to develop an online sales channel with a website and eventually a CRM system.
+
+- [Customer Journey Map](https://github.com/SergeiScheglov/portfolio/blob/main/Air_Conditioning_CJM.pdf)
+
+
 ## Web Services
 ### Travel Search Web Services
 A Tour Operator's API manual. Describes how to search, book, modify and cancel booking of packages, hotels, flights and travel services.
