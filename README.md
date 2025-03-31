@@ -23,9 +23,9 @@ Includes Competitors analysis and comparizon, Primary persona description, list 
 - [Marketing brief](https://github.com/SergeiScheglov/portfolio/blob/main/whitecat_e-commerce_project.pdf)
 
 ### Cookie manufacturing E-commerce project
-Internet Marketing Educacional Project.
+A side project on Internet Marketing.
 
-Coibntains Business idea description, Personas description, Web site idea and prototypes, Web adds campain settings and screenshots, Email marketing campain plan, Omni channel strategy description.
+Cointains Business idea description, Personas description, Web site idea and prototypes, Web adds campain settings and screenshots, Email marketing campain plan, Omni channel strategy description.
 - [Presentation](https://github.com/SergeiScheglov/portfolio/blob/main/Cookie%20manufacturing_Marketing_Project.pdf)
 
 ## Case studies
