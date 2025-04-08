@@ -5,6 +5,7 @@
 
 The Dynamic Packaging B2B and B2C project initially struggled despite consistent customer interest based on metrics. However, it lacked commercial success for over a year.
 - [Description](https://scheglov.com/portfolio_project1/)
+- [User Story Example](https://github.com/SergeiScheglov/portfolio/blob/main/Dynamic_Packages_User_Story_Example.pdf/)
 
 ### Car Parts E-commerce Platform
 
