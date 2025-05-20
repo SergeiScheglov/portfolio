@@ -41,8 +41,11 @@ A study what I would do first if I became a Product Manager. I was a Windows Pho
 ### Air Conditioning Installation Company CJM and Roadmap
 
 Customer Journey Map for a website and CRM project made for a newly established company specialized in air condition system sales and installation. This company worked as a subcontractor with a number construction companies but decided to develop an online sales channel with a website and eventually a CRM system.
+The Roadmap translates customer journey insights into development stages and aligns delivery with long-term business goals, even under lean conditions.
 
 - [Customer Journey Map](https://github.com/SergeiScheglov/portfolio/blob/main/Air_Conditioning_CJM.pdf)
+- [Roadmap Case Stady Description](https://github.com/SergeiScheglov/portfolio/blob/main/Case_Study_Air_Conditioning_Company_Roadmap.pdf)
+- [Roadmap Gantt Diagramm](https://github.com/SergeiScheglov/portfolio/blob/main/Roadmap_ Air_Conditioning_Company.pdf)
 
 
 ## Web Services
