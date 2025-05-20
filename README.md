@@ -47,7 +47,7 @@ The Roadmap translates customer journey insights into development stages and ali
 
 - [Customer Journey Map](https://github.com/SergeiScheglov/portfolio/blob/main/Air_Conditioning_CJM.pdf)
 - [Roadmap Case Stady Description](https://github.com/SergeiScheglov/portfolio/blob/main/Case_Study_Air_Conditioning_Company_Roadmap.pdf)
-- [Roadmap Gantt Diagramm](https://github.com/SergeiScheglov/portfolio/blob/main/Roadmap_Air_Conditioning_Company.pdf)
+- [Roadmap Gantt Diagram](https://github.com/SergeiScheglov/portfolio/blob/main/Roadmap_Air_Conditioning_Company.pdf)
 
 
 ## Web Services
