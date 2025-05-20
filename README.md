@@ -15,6 +15,7 @@ The client sought to establish a new online sales channel. Their existing websit
 ### Travel ERP System with travel documents logistics
 
 The client sought to establish a new online sales channel. Their existing website lacked integration with their accounting/inventory system, making it impossible to update content, prices, and availability automatically.
+
 Through digital document handling, status tracking, and barcode-based logistics, The Visa Management and Travel docs logistics Subsystem dramatically improved operational efficiency and established a solid foundation for future e-visa integrations.
 - [Project Description](https://scheglov.com/portfolio_project3/)
 - [Travel Docs Logistics Subsystem  Description](https://scheglov.com/portfolio_project4/)
@@ -41,6 +42,7 @@ A study what I would do first if I became a Product Manager. I was a Windows Pho
 ### Air Conditioning Installation Company CJM and Roadmap
 
 Customer Journey Map for a website and CRM project made for a newly established company specialized in air condition system sales and installation. This company worked as a subcontractor with a number construction companies but decided to develop an online sales channel with a website and eventually a CRM system.
+
 The Roadmap translates customer journey insights into development stages and aligns delivery with long-term business goals, even under lean conditions.
 
 - [Customer Journey Map](https://github.com/SergeiScheglov/portfolio/blob/main/Air_Conditioning_CJM.pdf)
