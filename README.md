@@ -34,6 +34,12 @@ Cointains Business idea description, Personas description, Web site idea and pro
 
 ## Case studies
 
+### My SaaS Experience – Predefined Packages Module on Juniper Booking Engine
+
+This project highlighted a common but critical challenge in SaaS implementation: balancing standard functionality with the need for business-specific innovation. The Juniper Predefined Packages module, like many SaaS products, offered strong baseline capabilities but had limited flexibility for deep customization. Our project required unique logic and user flows that exceeded the vendor's willingness or ability to support under their standard roadmap.
+
+- [Case Study with Appendix: SaaS Customization vs. Standardization – Practical Insights](https://github.com/SergeiScheglov/portfolio/blob/main/SaaS_Experience_Juniper_Booking_Engine.pdf)
+
 ### What I Would Do If I Became a Product Manager of Windows Phone in Q1 2014
 
 A study what I would do first if I became a Product Manager. I was a Windows Phone user and still regret that the project was shut down, so one day I decided to do this research.
@@ -48,7 +54,6 @@ The Roadmap translates customer journey insights into development stages and ali
 - [Customer Journey Map](https://github.com/SergeiScheglov/portfolio/blob/main/Air_Conditioning_CJM.pdf)
 - [Roadmap Case Stady Description](https://github.com/SergeiScheglov/portfolio/blob/main/Case_Study_Air_Conditioning_Company_Roadmap.pdf)
 - [Roadmap Gantt Diagram](https://github.com/SergeiScheglov/portfolio/blob/main/Roadmap_Air_Conditioning_Company.pdf)
-
 
 ## Web Services
 ### Travel Search Web Services
