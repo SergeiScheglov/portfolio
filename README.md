@@ -43,7 +43,7 @@ This project highlighted a common but critical challenge in SaaS implementation:
 ### What I Would Do If I Became a Product Manager of Windows Phone in Q1 2014
 
 A study what I would do first if I became a Product Manager. I was a Windows Phone user and still regret that the project was shut down, so one day I decided to do this research.
-- [Presentation](https://github.com/SergeiScheglov/portfolio/blob/main/what_i_would_do_if_i_became_a_pm_of_wp.pdf)
+- [Case Study](https://github.com/SergeiScheglov/portfolio/blob/main/what_i_would_do_if_i_became_a_pm_of_wp.pdf)
 
 ### Air Conditioning Installation Company CJM and Roadmap
 
