@@ -11,6 +11,7 @@ The Dynamic Packaging B2B and B2C project initially struggled despite consistent
 
 The client sought to establish a new online sales channel. Their existing website lacked integration with their accounting/inventory system, making it impossible to update content, prices, and availability automatically.
 - [Description](https://scheglov.com/portfolio_project2/)
+- [Backlog, Sprint, Epic and User Story Example](https://github.com/SergeiScheglov/portfolio/blob/main/e-commerce_epic_and_user_stories_example.pdf/)
 
 ### Travel ERP System with travel documents logistics
 
