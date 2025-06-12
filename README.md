@@ -5,13 +5,13 @@
 
 The Dynamic Packaging B2B and B2C project initially struggled despite consistent customer interest based on metrics. However, it lacked commercial success for over a year.
 - [Description](https://scheglov.com/portfolio_project1/)
-- [User Story Example](https://github.com/SergeiScheglov/portfolio/blob/main/Dynamic_Packages_User_Story_Example.pdf/)
+- [Jira Epic, User Story, Sprint and Backlog Example](https://github.com/SergeiScheglov/portfolio/blob/main/Dynamic_Packages_Epic_User_Story_Backlog_Example.pdf/)
 
 ### Car Parts E-commerce Platform
 
 The client sought to establish a new online sales channel. Their existing website lacked integration with their accounting/inventory system, making it impossible to update content, prices, and availability automatically.
 - [Description](https://scheglov.com/portfolio_project2/)
-- [Backlog, Sprint, Epic and User Story Example](https://github.com/SergeiScheglov/portfolio/blob/main/e-commerce_epic_and_user_stories_example.pdf/)
+- [Jira Epic, User Story, Sprint and Backlog Example](https://github.com/SergeiScheglov/portfolio/blob/main/e-commerce_epic_and_user_stories_example.pdf/)
 
 ### Travel ERP System with travel documents logistics
 
