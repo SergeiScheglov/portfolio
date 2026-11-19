@@ -35,6 +35,11 @@ Cointains Business idea description, Personas description, Web site idea and pro
 
 ## Case studies
 
+### Travel Supplier API Integration (Viator Partner API)
+
+A conceptual Product Owner case study on integrating third-party activities into a dynamic travel packaging platform. It covers a hybrid caching and real-time booking approach, API sequencing, data dependencies, and trade-offs between performance, supplier constraints, and booking reliability.
+- [Case Study — API Integration Design (PDF)](https://github.com/SergeiScheglov/portfolio/blob/main/Travel_Supplier_API_Integration_PO_Case_Study.pdf)
+
 ### My SaaS Experience – Predefined Packages Module on Juniper Booking Engine
 
 This project highlighted a common but critical challenge in SaaS implementation: balancing standard functionality with the need for business-specific innovation. The Juniper Predefined Packages module, like many SaaS products, offered strong baseline capabilities but had limited flexibility for deep customization. Our project required unique logic and user flows that exceeded the vendor's willingness or ability to support under their standard roadmap.
